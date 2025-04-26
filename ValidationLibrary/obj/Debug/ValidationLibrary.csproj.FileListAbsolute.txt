@@ -1,0 +1,6 @@
+D:\SANeForce\ValidationLibrary\bin\Debug\ValidationLibrary.dll
+D:\SANeForce\ValidationLibrary\bin\Debug\ValidationLibrary.pdb
+D:\SANeForce\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.AssemblyReference.cache
+D:\SANeForce\ValidationLibrary\obj\Debug\ValidationLibrary.csproj.CoreCompileInputs.cache
+D:\SANeForce\ValidationLibrary\obj\Debug\ValidationLibrary.dll
+D:\SANeForce\ValidationLibrary\obj\Debug\ValidationLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbnWBuC633f4eLFvps46uykdaQNhgJakPxsRfoYb/ZhANK6EEkt+OX0SEnwHfiJzsZ4gdTIrNQ2GuxUwH6bbRw==",
+  "success": true,
+  "projectFilePath": "D:\\SANeForce\\ConsoleApp1_Test_library\\ConsoleApp1_Test_library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 0224\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
